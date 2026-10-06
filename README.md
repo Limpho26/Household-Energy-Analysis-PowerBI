@@ -96,7 +96,7 @@ Based on the analysis:
 - Review hot-water scheduling.
 - Incorporate energy tariff data in future analysis to translate consumption reductions into financial savings.
 
-##Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning & Transformation
 - Power BI Dashboard Development
